@@ -62,10 +62,13 @@ article h2 {
   padding-bottom: 80px;
 }
 footer {
-  font-size: 5px;
   text-align: center;
   padding-top: 100px;
 }
+footer p {
+  font-size: 20px;
+}
+
 
 .content-title {
   font-size: 1rem;
@@ -84,6 +87,7 @@ footer {
 #cinama ul {
   display: flex;
   justify-content: space-between;
+  padding-right: 40px;
   
 }
 #cinama li {
